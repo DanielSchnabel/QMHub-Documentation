@@ -28,4 +28,4 @@ Contents
 
    usage
    api
-   command line usage
+   Command Line Usage
