@@ -26,6 +26,7 @@ Contents
 
 .. toctree::
 
+   Home <self>
    usage
    api
-   Command Line Usage
+   command line usage
