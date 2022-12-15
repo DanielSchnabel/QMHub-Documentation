@@ -1,2 +1,5 @@
-.. automodule:: QMHub-Documentation.docs.source.conf.py
+Usage
+=====
+
+.. automodule:: QMHub-Documentation.docs.source.conf
 
