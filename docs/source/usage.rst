@@ -1,5 +1,5 @@
 Usage
 =====
 
-.. automodule:: docs.test
+.. automodule:: QMHub-Documentation/docs/source/test
 
