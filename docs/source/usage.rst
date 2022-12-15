@@ -1,5 +1,5 @@
 Usage
 =====
 
-.. automodule:: QMHub-Documentation.docs.source.conf
+.. automodule:: docs.source.conf
 
