@@ -1,5 +1,5 @@
 Usage
 =====
 
-.. automodule:: conf
+.. automodule:: test
 
