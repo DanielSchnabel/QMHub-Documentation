@@ -1,5 +1,5 @@
 Usage
 =====
 
-.. automodule:: docs.source.conf
+.. automodule:: conf
 
